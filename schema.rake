@@ -1,5 +1,6 @@
 # encoding: utf-8
 require 'fileutils'
+# Schema rake file
 
 namespace :schema do
     desc "Create the  database using the Schema Base"
